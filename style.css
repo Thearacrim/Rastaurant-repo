@@ -1,0 +1,10 @@
+body {
+  font-size: 18px;
+  font-family: serif;
+  font-weight: normal;
+  color: #111;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  border: 1px solid #000;
+}

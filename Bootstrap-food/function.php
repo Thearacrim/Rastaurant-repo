@@ -122,5 +122,5 @@ function typeid($type_id){
   ";
   echo $typeid;
 }
-
+echo "hi";
 ?>
